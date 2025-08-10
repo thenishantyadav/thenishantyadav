@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @thenishantyadav
-- 👀 I’m interested in ANDROID DEVELOPMENT(JAVA)
-- 🌱 I’m currently learning JAVA TECHNOLOGY
-- 💞️ I’m looking to collaborate on ANDROID DEVELOPMENT
-- 📫 How to reach me ny926602@gmail.com (email)
+👋 Hi, I’m Nishant Yadav
+💻 I’m a Software Engineer passionate about building scalable applications and solving complex problems.
+🚀 Skilled in Java, Spring Boot, ReactJS, Node.js, and Full-Stack Development.
+📚 Currently improving my DSA skills and working on exciting projects like YouTube Clone & Netflix Clone.
+🌱 Love exploring new technologies, open-source contributions, and clean code practices.
 
-<!---
-thenishantyadav/thenishantyadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

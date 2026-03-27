@@ -1,16 +1,27 @@
 # 💫 About Me:
 ## 🚀 About Me<br><br>
-🔭 I’m currently working on building scalable backend systems using **Java, Spring Boot, and microservices architecture** at production scale.<br><br>
 
-🤝 I’m looking to collaborate on backend projects involving **distributed systems, Kafka, and cloud-native applications**.<br><br>
+🔭 Backend Engineer at Jio Platforms working on **scalable systems serving 450M+ users**.<br><br>
 
-🛠️ I’m focused on improving **system design, performance optimization, and high-throughput backend systems**.<br><br>
+⚡ Building **high-throughput microservices handling 100K+ Kafka events/day** using Java and Spring Boot.<br><br>
 
-🌱 I’m currently learning **advanced system design, multithreading, and DSA for product-based companies**.<br><br>
+🤝 I’m interested in backend projects involving **distributed systems, event-driven architecture, and cloud-native applications**.<br><br>
+
+🛠️ I focus on **system design, performance optimization, and building reliable backend systems at scale**.<br><br>
+
+🌱 Currently learning **advanced system design, multithreading, and DSA for product-based companies**.<br><br>
 
 💬 Ask me about **Java, Spring Boot, Kafka, REST APIs, Microservices, and Backend System Design**.<br><br>
 
 ⚡ Fun fact: I enjoy optimizing backend systems for **performance, scalability, and reliability 🚀**
+
+
+## 📈 Key Achievements:
+
+✔ Built microservices handling **100K+ Kafka events/day**  
+✔ Reduced DB load by **40% using Redis caching**  
+✔ Improved performance using **async processing (CompletableFuture)**  
+✔ Worked on production systems serving **450M+ users**  
 
 
 ## 🌐 Socials:
@@ -38,6 +49,18 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 
 
+## 📌 Featured Projects:
+
+🔹 **Distributed Payment System**  
+→ Kafka-based microservices with high-throughput event processing  
+
+🔹 **URL Shortener Service**  
+→ Low-latency system with Redis caching  
+
+🔹 **CourseHub Backend**  
+→ JWT auth, RBAC, Docker + Kubernetes  
+
+
 # 📊 GitHub Stats:
 
 ![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical)
@@ -46,12 +69,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical)
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thenishantyadav&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=thenishantyadav&theme=radical&margin-w=4)
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thenishantyadav&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=thenishantyadav&icon=0&color=0)](https://visitcount.itsvg.in)

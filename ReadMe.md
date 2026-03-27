@@ -65,12 +65,17 @@
 
 # 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=thenishantyadav&theme=radical" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thenishantyadav&theme=radical&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thenishantyadav&theme=radical&margin-w=4)

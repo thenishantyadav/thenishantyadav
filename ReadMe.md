@@ -62,20 +62,13 @@
 
 
 
+## 📊 GitHub Stats
 
-# 📊 GitHub Stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical&cache_seconds=1800" />
-</p>
+![Streak](https://streak-stats.demolab.com/?user=thenishantyadav&theme=radical)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thenishantyadav&theme=radical&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical&cache_seconds=1800" />
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thenishantyadav&theme=radical&margin-w=4)
@@ -84,6 +77,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thenishantyadav&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=thenishantyadav&icon=0&color=0)](https://visitcount.itsvg.in)

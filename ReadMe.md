@@ -39,10 +39,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thenishantyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=thenishantyadav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=thenishantyadav&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thenishantyadav&theme=radical&no-frame=false&no-bg=false&margin-w=4)

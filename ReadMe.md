@@ -61,13 +61,15 @@
 → JWT auth, RBAC, Docker + Kubernetes  
 
 
+
+
 # 📊 GitHub Stats:
 
-![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical" />
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=thenishantyadav&theme=radical)
+<img src="https://streak-stats.demolab.com/?user=thenishantyadav&theme=radical" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical" />
 
 
 ## 🏆 GitHub Trophies

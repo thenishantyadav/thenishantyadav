@@ -1,79 +1,47 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>
+# Hi, I'm Nishant Yadav
 
-🔭 Backend Engineer at Jio Platforms working on **scalable systems serving 450M+ users**.<br><br>
+**Java Backend Engineer · Spring Boot · Kafka · Distributed Systems**
 
-⚡ Building **high-throughput microservices handling 100K+ Kafka events/day** using Java and Spring Boot.<br><br>
+Software Engineer at **Jio Platforms Limited**, based in **Mumbai, India** and open to relocation. My work spans Java backend services, event-driven processing, SQL databases, and production troubleshooting.
 
-🤝 I’m interested in backend projects involving **distributed systems, event-driven architecture, and cloud-native applications**.<br><br>
+[LinkedIn](https://www.linkedin.com/in/nishant-yadav12/) · [Email](mailto:ny926602@gmail.com)
 
-🛠️ I focus on **system design, performance optimization, and building reliable backend systems at scale**.<br><br>
+## Engineering focus
 
-🌱 Currently learning **advanced system design, multithreading, and DSA for product-based companies**.<br><br>
+- Build REST APIs and backend services with Java, Spring Boot, Spring Data JPA, and Hibernate.
+- Work with Kafka event processing, consumer lag, retries, and failure handling.
+- Use PostgreSQL, Oracle, Redis, and Elasticsearch for persistence, caching, and search.
+- Work with Docker, Kubernetes, AWS, CI/CD, and production observability.
+- Deepen my understanding of concurrency, JVM internals, DSA, and system design.
 
-💬 Ask me about **Java, Spring Boot, Kafka, REST APIs, Microservices, and Backend System Design**.<br><br>
+## Featured backend projects
 
-⚡ Fun fact: I enjoy optimizing backend systems for **performance, scalability, and reliability 🚀**
+These are personal learning and portfolio projects. Each repository documents its current implementation and local setup.
 
+| Project | What you can inspect | Stack |
+| --- | --- | --- |
+| [Real-Time Anomaly Detection](https://github.com/thenishantyadav/anomaly-detection) | Kafka batch consumption, invalid-event DLQ routing, Redis-backed statistics and rate limiting, Elasticsearch indexing, unit tests, and Kubernetes manifests | Java 17, Spring Boot, Kafka, Redis, Elasticsearch |
+| [Payment Workflow](https://github.com/thenishantyadav/payment-system) | Authenticated order APIs, PostgreSQL persistence, idempotency checks, order state transitions, and Kafka payment-result handling. The payment service remains a future/external component. | Java 17, Spring Boot, PostgreSQL, Kafka |
+| [CourseHub Backend](https://github.com/thenishantyadav/coursehub) | JWT authentication, role-based authorization, course APIs, enrollment tracking, OpenAPI documentation, and container/deployment setup | Java 17, Spring Boot, JPA, MySQL, Docker |
 
-## 📈 Key Achievements:
+## Technical toolkit
 
-✔ Built microservices handling **100K+ Kafka events/day**  
-✔ Reduced DB load by **40% using Redis caching**  
-✔ Improved performance using **async processing (CompletableFuture)**  
-✔ Worked on production systems serving **450M+ users**  
+| Area | Technologies |
+| --- | --- |
+| Backend | Java, Spring Boot, Spring MVC, Spring Security, JPA/Hibernate, REST APIs |
+| Messaging and data | Kafka, Redis, PostgreSQL, Oracle, MySQL, Elasticsearch |
+| Delivery and operations | Docker, Kubernetes, AWS, Jenkins, Azure DevOps, Git, ELK |
+| Quality | JUnit, Mockito, Swagger/OpenAPI |
 
+## More work
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thenishantyadav_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nishant-yadav12) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ny926602@gmail.com) 
+- [AI Job Hunter](https://github.com/thenishantyadav/AI-JOB-HUNTER): Node.js job discovery and notification tooling.
+- [CI/CD Dashboard](https://github.com/thenishantyadav/CICD_DASHBOARD): React interface prototype for pipeline visibility.
 
+## Education and interests
 
-# 💻 Tech Stack:
+B.Tech in Computer Science and Engineering, **2023**.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Kafka](https://img.shields.io/badge/kafka-%23000000.svg?style=for-the-badge&logo=apachekafka&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
+Interested in Java backend engineering, reliable event-driven systems, API design, database performance, and learning through practical projects.
 
-
-## 📌 Featured Projects:
-
-🔹 **Distributed Payment System**  
-→ Kafka-based microservices with high-throughput event processing  
-
-🔹 **URL Shortener Service**  
-→ Low-latency system with Redis caching  
-
-🔹 **CourseHub Backend**  
-→ JWT auth, RBAC, Docker + Kubernetes  
-
-
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thenishantyadav&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=thenishantyadav&theme=radical)
-
-![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thenishantyadav&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thenishantyadav&theme=radical&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=thenishantyadav&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
-
+**Open to Java Backend Developer and Software Engineer opportunities.** Contact me at [ny926602@gmail.com](mailto:ny926602@gmail.com).
